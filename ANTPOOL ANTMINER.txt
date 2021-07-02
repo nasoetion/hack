@@ -1,0 +1,12 @@
+stratum+tcp://stratum.antpool.com:3333
+stratum+tcp://stratum.antpool.com:443
+stratum+tcp://stratum.antpool.com:25
+
+
+
+
+
+arecsa.107
+stratum+tcp://stratum.antpool.com:3333
+
+afsitorus94.071
